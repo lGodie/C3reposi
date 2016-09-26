@@ -1,0 +1,19 @@
+● git init: Inicializa los repositorios(local)
+
+● git add:  Va haciendo una lista de versiones
+
+● git commit: lo vuelve un solo control de cambio
+
+● git status: para ver los cambios(q archivos han cambiado)
+
+● git diff: muestra los cambios (detalles)
+
+● git log: para saber los commit q llevo
+
+● git checkout: Reemplazar cambios locales 
+
+● git push:Para enviar  cambios al  repositorio remoto
+
+● git remote:conectar tu repositorio local a un repositorio remoto
+
+● git clone: Crea una copia local del repositorio
